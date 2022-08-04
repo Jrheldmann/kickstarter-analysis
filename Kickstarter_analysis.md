@@ -1,9 +1,9 @@
-# Kickstarting with Excel
+# Analyzing Kickstarters
 
-## Overview of Project
-
+## Overview
+- Using collected statistical data, this project will determine how various kickstarter campaigns fared in relation to their launch dates and funding goals.
 ### Purpose
-
+- To answer Louise's questions about her competition and prove my competency in Excel
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
